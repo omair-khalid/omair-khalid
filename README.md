@@ -1,5 +1,3 @@
-Hi! 
-
-I am a robotics and computer vision engineer.
-
-Looking for remote jobs!
+Hi!<br />
+I am a 🤖 and 🖥️ 📷 engineer.<br />
+Looking for remote jobs on the intersection of robotics and computer vision!<br />
